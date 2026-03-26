@@ -3,6 +3,11 @@
 Welcome to the **Multi-Armed Bandit Strategy Dashboard**, an interactive web application designed to demonstrate the critical trade-offs between exploration and exploitation in decision-making and optimization. 
 
 This project was built following the **CRISP-DM (Cross-Industry Standard Process for Data Mining)** methodology to ensure a structured, business-oriented approach to comparing traditional A/B testing with advanced Multi-Armed Bandit algorithms.
+<img width="1186" height="318" alt="image" src="https://github.com/user-attachments/assets/ac595f81-0b53-40f7-9b45-70eb4685481d" />
+<img width="1176" height="623" alt="image" src="https://github.com/user-attachments/assets/2f1f3c6d-3ecb-4c82-88f2-10761288a9bc" />
+<img width="1168" height="632" alt="image" src="https://github.com/user-attachments/assets/6c6448b3-ddae-4871-97f9-1c6c8a72d87b" />
+
+Live Demo: https://kevintseng-0430-20260326-rl-mab-dic3-mab-app-etwz7c.streamlit.app/
 
 ## CRISP-DM Process Overview
 
